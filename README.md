@@ -1,16 +1,33 @@
 # jsonveridenemesi
 
-A new Flutter project.
+<p>API adresine post verisi g&ouml;nderip, d&ouml;nen sonucu işleme &ouml;rneği.</p>
 
-## Getting Started
+<p>JSON &Ccedil;IKTISI:</p>
 
-This project is a starting point for a Flutter application.
+<pre>
+<code class="language-json">[
+  {
+        "id": 1,
+        "baslik": "Araba",
+        "paylasimid": "380",
+        "resimler": [
+            "https://api.koksalsoft.com/resimler/aaaa.jpg",
+            "https://api.koksalsoft.com/resimler/bbb.jpg",
+            "https://api.koksalsoft.com/resimler/ccc.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "baslik": "Kamyon",
+        "paylasimid": "381",
+        "resimler": [
+            "https://api.koksalsoft.com/resimler/aaaa.jpg",
+            "https://api.koksalsoft.com/resimler/bbb.jpg",
+            "https://api.koksalsoft.com/resimler/ccc.jpg"
+        ]
+    },
 
-A few resources to get you started if this is your first Flutter project:
+]</code></pre>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p>&nbsp;</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
