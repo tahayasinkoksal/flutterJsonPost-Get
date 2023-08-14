@@ -46,8 +46,8 @@ class _MyHomePageState extends State<MyHomePage> {
   //--------Paylasim Cekme Main---------//
   ///////RESIMLER
   Future<List<PaylasimModel>> tumPaylasimlarCek() async {
-    var url = Uri.parse("https://api.koksalsoft.com/paylasimCek.php"); //url
-    var gonderilecekPostVerisi = {"api_key":"6QyKbqyk18LTqh9", "market_id":"1"}; //post edilecekler
+    var url = Uri.parse("https://tahayasinkoksal.com/paylasimCek.php"); //url
+    var gonderilecekPostVerisi = {"api_key":"12333333333", "paylasim_id":"1"}; //post edilecekler
 
     var cevap = await http.post(url, body: gonderilecekPostVerisi); //istek islemi
     //print("CIKTI:******* ${cevap.body}");
