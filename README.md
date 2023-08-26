@@ -25,7 +25,7 @@
             "https://api.koksalsoft.com/bbb.jpg",
             "https://api.koksalsoft.com/ccc.jpg"
         ]
-    },
+    }
 
 ]</code></pre>
 
