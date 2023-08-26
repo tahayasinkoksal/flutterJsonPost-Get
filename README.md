@@ -11,9 +11,9 @@
         "baslik": "Araba",
         "paylasimid": "380",
         "resimler": [
-            "https://api.koksalsoft.com/resimler/aaaa.jpg",
-            "https://api.koksalsoft.com/resimler/bbb.jpg",
-            "https://api.koksalsoft.com/resimler/ccc.jpg"
+            "https://api.koksalsoft.com/aaaa.jpg",
+            "https://api.koksalsoft.com/bbb.jpg",
+            "https://api.koksalsoft.com/ccc.jpg"
         ]
     },
     {
@@ -21,9 +21,9 @@
         "baslik": "Kamyon",
         "paylasimid": "381",
         "resimler": [
-            "https://api.koksalsoft.com/resimler/aaaa.jpg",
-            "https://api.koksalsoft.com/resimler/bbb.jpg",
-            "https://api.koksalsoft.com/resimler/ccc.jpg"
+            "https://api.koksalsoft.com/aaaa.jpg",
+            "https://api.koksalsoft.com/bbb.jpg",
+            "https://api.koksalsoft.com/ccc.jpg"
         ]
     },
 
